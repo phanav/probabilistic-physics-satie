@@ -1,7 +1,7 @@
 # Probabilistic and physics-informed machine learning for predictive maintenance with time series data
 
-## Preprint
-https://www.overleaf.com/read/xzvhzjxzqykr
+## Publication
+[https://ieeexplore.ieee.org/document/10100781](https://ieeexplore.ieee.org/document/10100781)
 
 ## Experiment
 Switch versions to see several trials with different random seeds
